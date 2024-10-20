@@ -23,7 +23,8 @@
 
 
 ## Result
-![result](result_graphy/point-sta.png)
+
+![point-sta](https://github.com/user-attachments/assets/3c0d08a3-a78c-4b65-8f67-0f2d76d2280e)
 
 ## Big Picture
 ![Big Picture](image/BigPicture.png)
